@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "title": "backend with express",
+      "author": "SWAMY",
+      "id": 11
+    },
+    {
+      "title": "html",
+      "author": "Anji",
+      "id": 12
+    },
+    {
+      "title": "javascript",
+      "author": "Tarun",
+      "id": 13
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 14
+    }
+  ],
+  "courses":[
+    {
+      "title":"frontend with reactSJ",
+      "technologies":["HTML","CSS","JAVASCRIPT","BOOTSTRAP","REACTJS","REDUX","REDUXTOOLKIT"],
+      "fees":25000
+    },
+    {
+      "title":"frontend with angular",
+      "technologies":["HTML","CSS","JAVASCRIPT","BOOTSTRAP","ANGULAR","NGRX","RXJS"],
+      "fees":25000
+    },
+    {
+      "title":"MEAN FULLstack",
+      "technologies":["HTML","CSS","JAVASCRIPT","BOOTSTRAP","ANGULAR","NGRX","RXJS","Nodejs","ExpressJS","MongoDB"],
+      "fees":30000
+    },
+    {
+      "title":"MERN FULLstack",
+      "technologies":["HTML","CSS","JAVASCRIPT","BOOTSTRAP","REACTJS","REDUX","REDUXTOOLKIT","Nodejs","ExpressJS","MongoDB"],
+      "fees":30000
+    },
+    {
+      "title":"JAVA FULLstack",
+      "technologies":["HTML","CSS","JAVASCRIPT","BOOTSTRAP","REACTJS","REDUX","REDUXTOOLKIT","CoreJava","SpringBoot","MySQL"],
+      "fees":35000
+    }
+  ],
+  "contacts":[
+    {
+      "id":1,
+      "fullname":"Ayyappa",
+      "mobile":9603495818,
+      "email":"ayyappa666swamy@gmail.com",
+      "communication":[
+        {
+          "remarks":"Im intrested in joining ReactJS in  June",
+          "communicationtime":"",
+          "nextcalltime":""
+        }
+      ],
+      "course":"",
+      "technologies":[],
+      "fees":0,
+      "discountPercentage":10,
+      "discountReason":""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
